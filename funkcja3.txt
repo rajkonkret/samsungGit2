@@ -1,1 +1,3 @@
-linia rr
+linia m1
+linia m2
+linia m3
