@@ -1,6 +1,6 @@
-linia 2
+linia 1
 linia 2
 linia 3
-linia4
+linia 4
 linia5
 linia 9
