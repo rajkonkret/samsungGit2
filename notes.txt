@@ -1,20 +1,6 @@
 linia 1
 linia 2
-linia3
-linia4
-
-lika5
-
-linijka5
-
-lincdfakia6
-linijka7
-linijka8
-lin9
-lin10
-lin11
-lin12
-lin12a
-lin14
-lin15
-lin16
+linia 3
+linia 4
+linia 5
+linia 6
