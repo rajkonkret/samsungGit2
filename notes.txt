@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 linia z
 linia 2
 linia 3
@@ -68,3 +69,19 @@ lin12
 lin14
 lin15
 lin16
+=======
+linia 1 
+linia 2 
+
+linia 3 
+linia 4 
+
+linia 12 
+linia 15 
+linia 5 
+linia 6 
+
+linia 7 
+linia 8 
+
+>>>>>>> 8e730c6bd72848ebd6c65a8ac8227ccbab39e3e5
