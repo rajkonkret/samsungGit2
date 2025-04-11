@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 linia m1
 linia m2
 linia m3
@@ -7,3 +8,6 @@ linia f1
 linia f2
 linia f3
 >>>>>>> fd6a760 (add fun1)
+=======
+add 3
+>>>>>>> ad743db (add funkcja3)
