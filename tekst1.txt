@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 tekst1
 linia 2
 
 add 1
 
+=======
+add 1
+>>>>>>> 35ea699ba134e36944819a3b7b60a1a163c3f503

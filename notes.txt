@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 linia z
@@ -71,6 +72,8 @@ linia 1
 linia 2
 linia 3
 
+
+
 linia 5
 linia 6
 linia 1
@@ -81,6 +84,7 @@ linia 8
 linia 1
 linia 2
 linia 3
+
 
 linia 4
 linia5
@@ -115,6 +119,14 @@ linia 9
 
 linia 9
 
+
+stash me
+11.04.2025
+
+
+linia 4
+linia5
+linia 9
 
 stash me
 11.04.2025

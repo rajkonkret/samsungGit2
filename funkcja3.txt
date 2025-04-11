@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 linia m1
 linia m2
 linia m3
@@ -16,3 +17,7 @@ add 3
 add 3
 hello 11
 >>>>>>> 2d64344 (other commit)
+=======
+add 3
+hello 11
+>>>>>>> 35ea699ba134e36944819a3b7b60a1a163c3f503
