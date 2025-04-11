@@ -6,3 +6,4 @@ linia 5
 linia 6 f
 lin 7
 line 8
+line 9
