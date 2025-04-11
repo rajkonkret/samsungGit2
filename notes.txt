@@ -7,3 +7,10 @@ linia 6
 li345
 linia 7
 linia 8
+linia 9
+lin9
+lin10
+lin11
+lin12
+lin14
+lin15
