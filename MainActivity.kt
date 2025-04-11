@@ -1,7 +1,7 @@
 onStart(){
-    super
+    poor
 }
 
 onStop(){
-    super
+    beznadziejna funckja()
 }
