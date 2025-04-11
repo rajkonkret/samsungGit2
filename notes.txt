@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 linia z
+=======
+linia 1
+>>>>>>> df80d5efa0dfb0f04680c425462c79624c90fad6
 linia 2
 linia 3
 lidutreu -> liniauitit
@@ -13,6 +17,7 @@ line 11
 line 12
 line 13
 line 14
+<<<<<<< HEAD
 linia 1
 linia 2
 linia 3
@@ -70,6 +75,9 @@ lin14
 lin15
 lin16
 =======
+=======
+
+>>>>>>> df80d5efa0dfb0f04680c425462c79624c90fad6
 linia 1 
 linia 2 
 
@@ -83,5 +91,8 @@ linia 6
 
 linia 7 
 linia 8 
+<<<<<<< HEAD
 
 >>>>>>> 8e730c6bd72848ebd6c65a8ac8227ccbab39e3e5
+=======
+>>>>>>> df80d5efa0dfb0f04680c425462c79624c90fad6
