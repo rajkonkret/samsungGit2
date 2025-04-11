@@ -1,7 +1,24 @@
+<<<<<<< HEAD
+linia z
+linia 2
+linia 3
+lidutreu -> liniauitit
+linia 5ewre -> 512344
+linia 6 f
+lin 7
+line 8
+line 9
+line 10
+line 11
+line 12
+line 13
+line 14
+=======
 linia 1
 linia 2
 linia 3
 linia 4
+<<<<<<< HEAD
 <<<<<<< HEAD
 saasdasaaaaaa  sdsfds
 linia 5
@@ -38,5 +55,7 @@ asdasdasdasda
 sadasdasdasd
 sadasdasdasdasd
 =======
+=======
+>>>>>>> b2db8cc432189fd32776ed28653f4dacb2f408f3
 linia 5
 >>>>>>> 6c50e5f8660606141c9a4c9afb6c27828ce49bfc
