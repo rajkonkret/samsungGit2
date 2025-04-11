@@ -2,7 +2,7 @@
 linia z
 
 linia 2
->>>>>>> 6a7ba22 (edit 5)
+
 linia 2
 linia 3
 lidutreu -> liniauitit
@@ -69,6 +69,7 @@ linia 8
 linia 1
 linia 2
 linia 3
+
 linia 4
 linia5
 
@@ -85,6 +86,7 @@ linia4
 
 linia 5
 linia 6
+
 linia 7
 linia 8
 
