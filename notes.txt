@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 linia z
+=======
+linia 2
+>>>>>>> 6a7ba22 (edit 5)
 linia 2
 linia 3
 lidutreu -> liniauitit
@@ -75,7 +79,11 @@ linia4
 linia5
 
 
+
 linia 7
+
+
+linia 9
 
 
 linia 9
