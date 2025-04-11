@@ -1,2 +1,0 @@
-onCreate()
-onDestroy()
