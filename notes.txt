@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 linia z
 =======
 linia 2
@@ -76,6 +77,12 @@ lin15
 lin16
 
 linia4
+
+linia 5
+linia 6
+linia 7
+linia 8
+
 linia5
 
 
