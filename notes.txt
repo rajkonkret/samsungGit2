@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 linia z
-=======
+
 linia 2
 >>>>>>> 6a7ba22 (edit 5)
 linia 2
@@ -19,9 +17,9 @@ line 12
 line 13
 line 14
 linia 1
-=======
+
 linia 2
->>>>>>> 7f3bd58 (edit notes)
+
 linia 2
 linia 3
 
@@ -67,6 +65,13 @@ linia 6
 li345
 linia 7
 linia 8
+
+linia 1
+linia 2
+linia 3
+linia 4
+linia5
+
 linia 9
 lin9
 lin10
