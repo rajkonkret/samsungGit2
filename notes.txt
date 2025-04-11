@@ -2,6 +2,7 @@ linia 1
 linia 2
 linia 3
 linia 4
+<<<<<<< HEAD
 saasdasaaaaaa  sdsfds
 linia 5
 
@@ -36,3 +37,6 @@ asdasdasdasda
 
 sadasdasdasd
 sadasdasdasdasd
+=======
+linia 5
+>>>>>>> 6c50e5f8660606141c9a4c9afb6c27828ce49bfc
