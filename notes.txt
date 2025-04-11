@@ -70,3 +70,5 @@ lin16
 linia4
 linia5
 
+linia 7
+
