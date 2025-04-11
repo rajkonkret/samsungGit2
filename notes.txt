@@ -16,6 +16,45 @@ linia 1
 linia 2
 linia 3
 linia 4
+<<<<<<< HEAD
+<<<<<<< HEAD
+saasdasaaaaaa  sdsfds
+linia 5
+
+linia 6
+d
+sdsfds
+
+ds
+fsd
+
+saasdasaaaaaadasd
+asd
+as
+dasd
+
+assadasdasdas asdsadasd asdas  sfdasfsdfas
+sdaas
+asdasdda
+
+sadasdasdasd
+asdasdasdasda
+
+sa
+dasdasd
+sadasdasdasdasdasd
+
+asdasdasdda
+sa
+
+asdasdasdasda
+
+
+sadasdasdasd
+sadasdasdasdasd
+=======
+=======
+>>>>>>> b2db8cc432189fd32776ed28653f4dacb2f408f3
 linia 5
 linia 6
 li345
