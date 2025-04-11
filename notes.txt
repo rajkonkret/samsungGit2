@@ -1,70 +1,24 @@
-linia z
-linia 2
-linia 3
-lidutreu -> liniauitit
-linia 5ewre -> 512344
-linia 6 f
-lin 7
-line 8
-line 9
-line 10
-line 11
-line 12
-line 13
-line 14
 linia 1
 linia 2
-linia 3
-linia 4
-<<<<<<< HEAD
-<<<<<<< HEAD
-saasdasaaaaaa  sdsfds
-linia 5
+linia3
+linia4
 
-linia 6
-d
-sdsfds
+lika5
 
-ds
-fsd
-
-saasdasaaaaaadasd
-asd
-as
-dasd
-
-assadasdasdas asdsadasd asdas  sfdasfsdfas
-sdaas
-asdasdda
-
-sadasdasdasd
-asdasdasdasda
-
-sa
-dasdasd
-sadasdasdasdasdasd
-
-asdasdasdda
-sa
-
-asdasdasdasda
+linijka5
 
 
-sadasdasdasd
-sadasdasdasdasd
-=======
-=======
->>>>>>> b2db8cc432189fd32776ed28653f4dacb2f408f3
-linia 5
-linia 6
-li345
-linia 7
-linia 8
-linia 9
+zmiana
+zmiana2
+lincdfakia6
+linijka7
+linijka8
 lin9
 lin10
 lin11
 lin12
+lin12a
 lin14
 lin15
 lin16
+
