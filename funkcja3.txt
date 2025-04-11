@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 linia m1
 linia m2
 linia m3
@@ -11,3 +12,7 @@ linia f3
 =======
 add 3
 >>>>>>> ad743db (add funkcja3)
+=======
+add 3
+hello 11
+>>>>>>> 2d64344 (other commit)
